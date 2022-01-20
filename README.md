@@ -6,9 +6,7 @@ Homework 1: Simple Syntactic Analysis With CodeQL
 - Implement simple analyses with CodeQL queries.
 
 ### Handin Instructions:
-- **Name**: Your Name Here, **Andrew ID**: Your Andrew ID here
-- Edit this document with your code and answers to the questions and commit it
-  to your personal Homework 1 repository.
+- Submit via [Canvas](https://canvas.cmu.edu/courses/27636/quizzes/77722).
 
 ### Grading:
 This homework is worth 100 points (with a possible 30 bonus points). The point
