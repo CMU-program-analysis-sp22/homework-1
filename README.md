@@ -55,14 +55,6 @@ Reference](https://codeql.github.com/docs/ql-language-reference)
 
 ---
 
-After you run your final query, use the "Share" button to get a link to the
-query and put it here **(5 points)**:
-
-**You should update the code in this document and commit it to your
-repository.** Although the "Share" link should contain your code we have no
-guarantees that the link will persist. Saving your code here allows us to run it
-again if needed.
-
 ```
 import java
 
@@ -171,10 +163,6 @@ implementation is correct you should have 27 results.
 After you run your final query, use the "Share" button to get a link to the
 query and results and put it here **(5 points)**:
 
-**You should update the code in this document and commit it to your
-repository.** Although the "Share" link should contain your code we have no
-guarantees that the link will persist. Saving your code here allows us to run it
-again if needed.
 
 ```
 import python
